@@ -9,4 +9,4 @@ Use Cases:
 
 
 
-Source code was inspired from [TensorFlow Lite Sound Classification Model](https://github.com/tensorflow/examples/tree/master/lite/examples/sound_classification/android)
+Source code was inspired by [TensorFlow Lite Sound Classification Model](https://github.com/tensorflow/examples/tree/master/lite/examples/sound_classification/android)
